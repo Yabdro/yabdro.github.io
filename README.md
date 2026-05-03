@@ -1,2 +1,4 @@
 # yabdro.github.io
-Under Construction...Shoutout to MY BRO!!!
+<a href="https://www.yassmine.ch/online-resume/)" target="_blank">My CV</a>
+
+<a href="https://www.goodreads.com/book/show/3836.Don_Quixote" target="_blank">Currently Reading</a>
